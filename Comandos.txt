@@ -1,0 +1,13 @@
+Criar repositório no GitHub
+
+Add a README file
+
+Create Repository
+
+Criar pasta no note em que vai ficar salvo o projeto e abrir gitbash nessa pasta 
+
+comando no gitbash: git clone “link https do github”
+
+comando cd “nome do repositório colocado no github”
+
+comando git status para ver se está tudo certo (deve retornar ‘nothing to commit, working tree clean’)
